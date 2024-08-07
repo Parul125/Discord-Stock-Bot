@@ -2,10 +2,6 @@
 
  Stock Bot is created with an intent to reduce a trader’s dependency on manual efforts and help them analyze the market with automated updates and brief commands.
 
- ### Glimpses of the Bot in action
-
- ![Glimpse 1](glimpses/glimpse_1.png)
- ![Glimpse 2](glimpses/glimpse_2.png)
 
   The bot is designed for the Discord platform that provides us information about stocks of various companies in the form of messages in discord channels.
 
